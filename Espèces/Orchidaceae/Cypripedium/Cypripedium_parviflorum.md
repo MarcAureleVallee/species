@@ -13,7 +13,7 @@
 ## Traits distinctifs
 
 -	Plante herbacée vivace terrestre de 15 à 60 cm de haut.
--	Les feuilles (3-5) vertes pâles sont ovales, pointues au sommet et disposées en alternance. Elles sont densément couvertes de poiles. Elles mesurent de 5 à 19 cm de long et de 1,5 à 6 cm de large.
+-	Les feuilles (3-5) vertes pâles sont ovales, pointues au sommet et disposées en alternance. Elles sont densément couvertes de poils. Elles mesurent de 5 à 19 cm de long et de 1,5 à 6 cm de large.
 -	Pétales et sépales tachés ou marqués de brun-roux, rarement d'une couleur uniforme. Les sépales latéraux sont unis, spiralés ou tressés jusqu’à 10cm de long.
 -	Le labelle est gonflé, jaune et parfois marqué de brun-rougeâtre à l’orifice.
 
